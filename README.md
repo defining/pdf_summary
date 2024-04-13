@@ -50,3 +50,5 @@ python3 main.py --pdf_path "/chemin/fictif/vers/le/document.pdf" --start_page 50
 ## Note importante
 
 Avant d'exécuter le script, assurez-vous que le fichier `.env` est configuré correctement avec votre clé API LangChain. Cela est nécessaire pour que l'API fonctionne correctement.
+
+Les résultats seront dans le fichier resultat.txt
