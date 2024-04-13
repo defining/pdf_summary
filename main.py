@@ -1,20 +1,3 @@
-# Pour le fichier requirements.txt:
-
-# pip install -r requirements.txt
-
-# !pip install langchain-community
-# !pip install -qU langchain-anthropic
-# !pip install pypdf
-# !pip install -U langchain-text-splitters
-# ! pip install python-dotenv
-# !pip install langchain
-# !pip install langchain-anthropic
-
-# main.py
-
-# Pour le lancer avec tous les paramètres:
-# python3 main.py --pdf_path "/chemin/fictif/vers/le/document.pdf" --start_page 50 --end_page 75 --system_prompt "Veuillez me résumer le contenu des pages {start_page} à {end_page}." --assistant_prompt "Je vais vous fournir un résumé détaillé et précis des pages demandées."
-
 import os
 import argparse
 from dotenv import load_dotenv
