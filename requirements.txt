@@ -1,0 +1,6 @@
+langchain-community
+langchain-anthropic
+pypdf
+langchain-text-splitters
+python-dotenv
+langchain
