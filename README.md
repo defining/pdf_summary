@@ -9,8 +9,7 @@ Ce dépôt contient un script Python pour automatiser le résumé de documents P
 Utilisez un environnement virtuel pour isoler les dépendances du projet. Pour créer et activer un environnement virtuel, exécutez les commandes suivantes :
 
 ```bash
-python3 -m venv langchain```
-```bash
+python3 -m venv langchain
 source langchain/bin/activate
 ```
 
